@@ -1,4 +1,4 @@
-module github.com/go-git/go-billy/v5
+module github.com/c4milo/go-billy/v5
 
 require (
 	github.com/kr/text v0.2.0 // indirect
